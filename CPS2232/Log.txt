@@ -1,0 +1,9 @@
+Wed Dec 18 15:22:54 CST 2024: Created new account for admin
+Wed Dec 18 15:23:00 CST 2024: admin successfully logged in.
+Wed Dec 18 15:23:11 CST 2024: Admin added a new vehicle: Porsche
+Wed Dec 18 15:26:57 CST 2024: Created new account for miy@kean.edu
+Wed Dec 18 15:27:02 CST 2024: miy@kean.edu successfully logged in.
+Wed Dec 18 16:06:11 CST 2024: miy@kean.edu successfully logged in.
+Wed Dec 18 16:10:44 CST 2024: admin successfully logged in.
+Wed Dec 18 16:11:15 CST 2024: Admin added a new vehicle: 
+Wed Dec 18 16:11:42 CST 2024: Admin added a new vehicle: Porsche,911,Red,2,1500,4.5,2.5

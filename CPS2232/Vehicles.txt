@@ -1,0 +1,31 @@
+1,Toyota,Corolla,White,5,50.0,4.5,1.8,true
+2,Honda,Civic,Black,5,60.0,4.7,1.9,true
+3,Ford,Focus,Blue,5,55.0,4.6,1.8,true
+4,Nissan,Altima,Gray,5,70.0,4.9,1.9,true
+5,Chevrolet,Malibu,Red,5,65.0,4.8,1.9,true
+6,BMW,3 Series,White,5,100.0,4.7,1.8,true
+7,Mercedes-Benz,C-Class,Black,5,120.0,4.8,1.9,true
+8,Audi,A4,Silver,5,110.0,4.7,1.9,true
+9,Volkswagen,Passat,Blue,5,75.0,4.9,1.9,true
+10,Hyundai,Elantra,Gray,5,50.0,4.5,1.8,true
+11,Tesla,Model 3,White,5,130.0,4.7,1.8,true
+12,Tesla,Model Y,Black,7,150.0,4.8,2.0,true
+13,Toyota,RAV4,Silver,5,80.0,4.6,1.9,true
+14,Ford,Escape,Blue,5,85.0,4.6,1.9,true
+15,Jeep,Wrangler,Red,5,90.0,4.7,2.1,true
+16,Kia,Sorento,Gray,7,70.0,4.8,1.9,true
+17,Hyundai,Tucson,White,5,60.0,4.5,1.8,true
+18,Honda,CR-V,Black,5,75.0,4.6,1.9,true
+19,Mazda,CX-5,Blue,5,70.0,4.5,1.8,true
+20,Subaru,Outback,Green,5,75.0,4.8,1.9,true
+21,Volvo,XC60,Silver,5,100.0,4.7,1.9,true
+22,Lexus,RX 350,Gray,5,110.0,4.7,1.9,true
+23,Chevrolet,Traverse,White,8,90.0,5.0,2.0,true
+24,Nissan,Rogue,Black,5,70.0,4.6,1.9,true
+25,BMW,X5,Blue,5,150.0,4.9,2.0,true
+26,Audi,Q5,Silver,5,130.0,4.8,1.9,true
+27,Mercedes-Benz,GLC,Black,5,140.0,4.8,1.9,true
+28,Volkswagen,Tiguan,Blue,7,75.0,4.7,1.9,true
+29,Toyota,Highlander,Red,8,120.0,4.9,2.0,true
+30,Honda,Pilot,Gray,8,110.0,4.9,2.0,true
+31,Porsche,911,Red,2,1500.0,4.5,2.5,true
