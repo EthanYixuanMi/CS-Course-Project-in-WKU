@@ -1,31 +1,71 @@
-# Java-Projects
+# Mi Yixuan’s Project Portfolio
 
-## About the Author
-
-These projects were created by **Mi Yixuan**, a passionate student from Wenzhou-Kean University with a keen interest in Java programming, software development, and scientific research.
-
-## Project Overview
-
-This repository showcases a collection of Java projects that demonstrate Mi Yixuan's programming skills and academic journey. The projects fall into three main categories:
-
-1. **Course Final Projects**: These projects represent the culmination of various computer science courses taken by Mi Yixuan at Wenzhou-Kean University. They demonstrate the practical application of theoretical concepts learned in class.
-
-2. **Internship Projects**: Some projects in this repository were developed during Mi Yixuan's internships at various companies, providing real-world programming experience and showcasing professional-grade code.
-
-3. **Science Research Project**: These projects represent Mi Yixuan's foray into scientific research, combining computer science principles with interdisciplinary scientific inquiry.
-
-
-
-## Contact
-
-For any queries or collaborations, feel free to reach out:
-
-- Email: yixuanmi25@gmail.com
-
-## Acknowledgements
-
-I would like to express my gratitude to the faculty at Wenzhou-Kean University, my internship mentors for their guidance and support throughout these projects.
+Welcome to my project portfolio! This repository showcases the various projects I completed during my undergraduate studies at Wenzhou-Kean University. These projects demonstrate my skills in software development, data structures, and system design, which I honed throughout my academic journey.
 
 ---
 
-Thank you for visiting my Java Projects repository. Your feedback and suggestions are always welcome!
+## Repository Overview
+
+This repository contains documentation and code for the following projects:
+
+### 1. **Car Rental Management System** (Highlighted Project)
+**Course**: CPS2232 - Data Structures  
+**Team Members**: Mi Yixuan (Code Integration, Debugging, Report Writing), Yu Yiduo, Zhao Yiyi, Yu Qiyang, Jia Taoyin  
+
+**Description**: A robust system designed to streamline car rental services, catering to both customers and rental companies. The system offers user-friendly interfaces, efficient data management, and role-based access control.
+
+**Key Features:**
+- **Vehicle Management**: Add, remove, and update vehicle information.
+- **User Authentication**: Secure login for customers and administrators.
+- **Transaction Management**: Real-time rental and return operations with logging.
+- **Email Notifications**: Confirmation emails using JavaMail API.
+- **Persistent Storage**: Dynamic data handled with ArrayList and synchronized with files.
+
+**Technologies Used**: Java, JavaMail API, ArrayList, File Handling  
+[Learn More](#)
+
+---
+
+### 2. **Course Selection System**
+**Course**: CPS2231 - Advanced Programming  
+
+**Description**: A menu-driven system replicating key functionalities of the Kean WISE system. It supports two user roles (students and instructors), enabling course registration and management.
+
+**Key Features:**
+- Role-specific menus for students and instructors.
+- Encapsulation and validation for robust functionality.
+- Scalable design for future enhancements.
+
+**Technologies Used**: Java, Object-Oriented Programming, UML Design  
+
+---
+
+### 3. **Programming Fundamentals Project**
+**Course**: CPS1231 - Programming Fundamentals  
+
+**Description**: A beginner-level project applying fundamental programming techniques to build a menu-driven application with diverse functionalities such as quizzes, lottery simulations, and data visualization.
+
+**Key Features:**
+- Modular code structure with extensive documentation.
+- Applications of Monte Carlo simulations and income tax calculators.
+
+**Technologies Used**: Java, Basic Control Structures, Modular Programming  
+
+---
+
+## How to Navigate This Repository
+
+The repository is organized into subdirectories for each project. Each subdirectory includes:
+- Project code.
+- Documentation (if available).
+- Relevant resources such as UML diagrams or presentation slides.
+
+---
+
+## Contact Information
+- **Name**: Mi Yixuan  
+- **Email**: [yixuanmi25@gmail.com](mailto:yixuanmi25@gmail.com)  
+- **Education**: B.Sc. in Computer Science, Wenzhou-Kean University  
+
+Thank you for visiting my repository! Feel free to explore and reach out if you have any questions or collaboration ideas.
+
