@@ -1,6 +1,6 @@
 # Mi Yixuan’s Project Portfolio
 
-Welcome to my project portfolio! This repository showcases the various projects I completed during my undergraduate studies at Wenzhou-Kean University. These projects demonstrate my skills in software development, data structures, and system design, which I honed throughout my academic journey.
+Welcome to my project portfolio! This repository showcases the various projects I completed during my undergraduate studies at Wenzhou-Kean University. These projects demonstrate my skills in software development, artificial intelligence, data structures, and system design, which I honed throughout my academic journey.
 
 ---
 
@@ -9,10 +9,9 @@ Welcome to my project portfolio! This repository showcases the various projects 
 This repository contains documentation and code for the following projects:
 
 ### 1. **Car Rental Management System** (Highlighted Project)
-**Course**: CPS2232 - Data Structures  
-**Team Members**: Mi Yixuan (Code Integration, Debugging, Report Writing), Yu Yiduo, Zhao Yiyi, Yu Qiyang, Jia Taoyin  
+**Course**: CPS2232 - Data Structures    
 
-**Description**: A robust system designed to streamline car rental services, catering to both customers and rental companies. The system offers user-friendly interfaces, efficient data management, and role-based access control.
+**Description**: A robust system designed to streamline car rental services, catering to customers and rental companies. The system offers user-friendly interfaces, efficient data management, and role-based access control.
 
 **Key Features:**
 - **Vehicle Management**: Add, remove, and update vehicle information.
@@ -27,7 +26,7 @@ This repository contains documentation and code for the following projects:
 ---
 
 ### 2. **Course Selection System**
-**Course**: CPS2231 - Advanced Programming  
+**Course**: CPS2231 - Computer Programming  
 
 **Description**: A menu-driven system replicating key functionalities of the Kean WISE system. It supports two user roles (students and instructors), enabling course registration and management.
 
@@ -42,7 +41,7 @@ This repository contains documentation and code for the following projects:
 ---
 
 ### 3. **Programming Fundamentals Project**
-**Course**: CPS1231 - Programming Fundamentals  
+**Course**: CPS1231 - Foundation of Computer Science
 
 **Description**: A beginner-level project applying fundamental programming techniques to build a menu-driven application with diverse functionalities such as quizzes, lottery simulations, and data visualization.
 
@@ -59,7 +58,7 @@ This repository contains documentation and code for the following projects:
 
 The repository is organized into subdirectories for each project. Each subdirectory includes:
 - Project code.
-- Documentation (if available).
+- Documentation.
 - Relevant resources such as UML diagrams or presentation slides.
 
 ---
@@ -69,5 +68,5 @@ The repository is organized into subdirectories for each project. Each subdirect
 - **Email**: [yixuanmi25@gmail.com](mailto:yixuanmi25@gmail.com)  
 - **Education**: B.Sc. in Computer Science, Wenzhou-Kean University  
 
-Thank you for visiting my repository! Feel free to explore and reach out if you have any questions or collaboration ideas.
+Thank you for visiting my repository! Feel free to explore and reach out with any questions or collaboration ideas.
 
