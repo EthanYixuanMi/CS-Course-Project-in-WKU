@@ -22,7 +22,7 @@ This repository contains documentation and code for the following projects:
 - **Persistent Storage**: Dynamic data handled with ArrayList and synchronized with files.
 
 **Technologies Used**: Java, JavaMail API, ArrayList, File Handling  
-[Learn More](#)
+[Learn More](./CPS2232)
 
 ---
 
@@ -37,6 +37,7 @@ This repository contains documentation and code for the following projects:
 - Scalable design for future enhancements.
 
 **Technologies Used**: Java, Object-Oriented Programming, UML Design  
+[Learn More](./CPS2231)
 
 ---
 
@@ -50,6 +51,7 @@ This repository contains documentation and code for the following projects:
 - Applications of Monte Carlo simulations and income tax calculators.
 
 **Technologies Used**: Java, Basic Control Structures, Modular Programming  
+[Learn More](./CPS1231)
 
 ---
 
