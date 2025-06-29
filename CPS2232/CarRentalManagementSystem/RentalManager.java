@@ -237,8 +237,8 @@ public class RentalManager {
     // Send email
     private void sendEmail(String to, String subject, String content) {
         // QQ mail configuration
-        String from = "2509783307@qq.com";
-        String password = "hztfrepktsoveaai"; // This is an application-specific password
+        String from = "xxx@qq.com"; // Enter your own QQ mail address
+        String password = "xxxxxxx"; // Enter your own application-specific password
 
         Properties properties = new Properties();
         properties.put("mail.smtp.host", "smtp.qq.com");
