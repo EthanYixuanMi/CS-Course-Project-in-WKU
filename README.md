@@ -8,7 +8,7 @@ Welcome to my project portfolio! This repository showcases the various projects 
 
 This repository contains documentation and code for the following projects:
 
-### 1. **Car Rental Management System** (Highlighted Project)
+### 1. **Car Rental Management System**
 **Course**: CPS2232 - Data Structures    
 
 **Description**: A robust system designed to streamline car rental services, catering to customers and rental companies. The system offers user-friendly interfaces, efficient data management, and role-based access control.
