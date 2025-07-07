@@ -1,61 +1,63 @@
-# FinalProject - Student Course Management System
+# Java Multi-Function Console Application
 
-## 📌 Introduction
+This is a Java console-based application that offers a collection of practical utilities, accessible through an interactive menu. It serves as a comprehensive final project or as a practice tool for learning core Java concepts.
 
-This is a simple **console-based student course management system** developed in Java. It allows users to create accounts, log in as students or teachers, and manage course registration and student information through a text-based menu interface.
+## Features
 
-## 🚀 Features
+Upon running the program, users are presented with the following menu options:
 
-* 🧑‍🎓 **Student Functionality**
+1. **Addition Quiz**
+   Generates simple random addition problems to help users practice mental math.
 
-  * Register new account
-  * Login
-  * View available courses
-  * Enroll in a course
-  * Drop a course
-  * View enrolled courses
+2. **Lottery Game**
+   Simulates a lottery number drawing and compares user input to randomly generated numbers.
 
-* 👩‍🏫 **Instructor Functionality**
+3. **Income Tax Calculator**
+   Calculates the amount of income tax based on the user's input.
 
-  * Login
-  * View list of all students
-  * View which courses a student has enrolled in
+4. **COVID Official Statistics**
+   Displays static or simulated data related to COVID-19 statistics.
 
-* 💾 **Persistent Storage**
+5. **Monte Carlo Simulation**
+   Demonstrates basic Monte Carlo probability simulations using random sampling.
 
-  * Student and instructor data are stored in `.txt` files
-  * Courses and enrollment data are stored and loaded automatically
+6. **Print Calendar**
+   Outputs a formatted calendar for a given month and year.
 
-## 📂 Project Structure
+7. **Print 50 Prime Numbers**
+   Prints the first 50 prime numbers to the console.
+
+8. **Exit**
+   Terminates the program.
+
+## Project Structure
+
+* `FinalProject.java`: The main class containing the primary loop, menu logic, and method calls to each feature.
+* Each feature may be implemented as a separate method within the main class for modularity.
+
+## How to Run
+
+1. Make sure you have the Java Development Kit (JDK) installed.
+2. Compile and run the program via terminal:
 
 ```bash
-FinalProject.java       # Main Java file containing all logic and classes
-account.txt             # Stores user credentials
-course_list.txt         # Stores all course information
-enrolled_courses.txt    # Stores student-course enrollment relationships
-log.txt                 # Optional log file for tracking operations
+javac FinalProject.java
+java Project.FinalProject
 ```
 
-## 🔧 How to Run
+> Note: The package name is `Project`, so make sure the file is located in a `Project/` directory.
 
-1. Make sure you have JDK installed (Java 8+).
-2. Compile the project:
+## Requirements
 
-   ```bash
-   javac FinalProject.java
-   ```
-3. Run the program:
+* Java 8 or above
+* Command-line terminal with standard input/output support
 
-   ```bash
-   java FinalProject
-   ```
+## Future Improvements
 
-## ✅ Example Use Case
+* Refactor features into separate classes and interfaces for better modularity
+* Implement a graphical user interface (GUI)
+* Add persistent storage (e.g., to save quiz scores or lottery history)
 
-* A student logs in and enrolls in `CPS 1231`.
-* A teacher logs in and checks which students are enrolled in `CPS 1231`.
+## Author
 
-## 📌 Notes
-
-* No GUI is included — all operations happen in the terminal.
-* This project is ideal for learning Java file I/O, object-oriented programming, and basic console interactions.
+This project was developed as a final assignment to practice core and advanced Java programming skills.
