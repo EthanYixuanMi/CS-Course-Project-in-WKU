@@ -66,7 +66,7 @@ The repository is organized into subdirectories for each project. Each subdirect
 ## Contact Information
 - **Name**: Mi Yixuan  
 - **Email**: [yixuanmi25@gmail.com](mailto:yixuanmi25@gmail.com)  
-- **Education**: B.Sc. in Computer Science, Wenzhou-Kean University  
+- **Education**: B.S. in Computer Science, Wenzhou-Kean University  
 
 Thank you for visiting my repository! Feel free to explore and reach out with any questions or collaboration ideas.
 
