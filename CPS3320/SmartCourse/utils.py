@@ -29,8 +29,8 @@ def send_enrollment_email(to_email, message_body):
 def send_grade_email(to_email, message_body):
     smtp_server = "smtp.qq.com"
     smtp_port = 587
-    sender_email = "2509783307@qq.com"
-    sender_password = "hztfrepktsoveaai"
+    sender_email = "your_email_address@qq.com"
+    sender_password = "your_password"
 
     msg = EmailMessage()
     msg['Subject'] = 'SmartCourse Grading Notification'
