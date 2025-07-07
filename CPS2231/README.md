@@ -64,7 +64,3 @@ java Reproduce_KeanWISE
 
 * All user and course data is saved in the provided `users.txt` and `courses.txt` files in the root of the repository.
 * This is a standalone educational simulation project—no external libraries or frameworks required.
-
-## License
-
-This project is released under the [MIT License](LICENSE).
