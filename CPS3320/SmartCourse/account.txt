@@ -1,0 +1,5 @@
+miy@kean.edu,ethan123,student,cps
+ethan@kean.edu,ethan123,instructor
+yuyid@kean.edu,12345,student,acct
+lucian@kean.edu,12345,instructor
+zhaoyiy@kean.edu,050411,student,cps

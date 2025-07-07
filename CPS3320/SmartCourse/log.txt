@@ -1,0 +1,96 @@
+2025-06-27 15:48:03.046030: Created new account: miy@kean.edu
+2025-06-27 15:48:12.544180: miy@kean.edu logged in
+2025-06-27 15:48:40.623957: miy@kean.edu enrolled in CPS 3320
+2025-06-27 15:48:41.940782: Failed to send email to miy@kean.edu: (-1, b'\x00\x00\x00')
+2025-06-27 15:49:27.004050: miy@kean.edu enrolled in CPS 3250
+2025-06-27 15:49:28.016556: Failed to send email to miy@kean.edu: (-1, b'\x00\x00\x00')
+2025-06-27 15:50:30.791807: Created new account: ethan@kean.edu
+2025-06-27 15:50:41.594618: ethan@kean.edu logged in
+2025-06-27 15:51:38.062379: Assigned grade A to miy@kean.edu for CPS 3320
+2025-06-27 15:51:39.192445: Failed to send email to miy@kean.edu: (-1, b'\x00\x00\x00')
+2025-06-27 15:52:23.886465: miy@kean.edu logged in
+2025-06-27 15:53:03.049978: miy@kean.edu dropped CPS 3250
+2025-06-27 15:53:04.296891: Failed to send email to miy@kean.edu: (-1, b'\x00\x00\x00')
+2025-06-27 15:55:40.411976: ethan@kean.edu logged in
+2025-06-27 16:00:39.527420: miy@kean.edu logged in
+2025-06-27 16:00:48.123974: miy@kean.edu enrolled in ACCT 2205
+2025-06-28 16:22:12.392760: Created new account: miy@kean.edu
+2025-06-28 16:22:19.893819: miy@kean.edu logged in
+2025-06-28 16:22:38.532911: miy@kean.edu enrolled in CPS 1231
+2025-06-28 16:22:52.921112: miy@kean.edu enrolled in CPS 2231
+2025-06-28 16:23:00.249568: miy@kean.edu enrolled in CPS 2232
+2025-06-28 16:23:08.326817: miy@kean.edu enrolled in CPS 2390
+2025-06-28 16:23:15.724647: miy@kean.edu enrolled in CPS 3320
+2025-06-28 16:25:15.892996: miy@kean.edu enrolled in MATH 2415
+2025-06-28 16:27:19.089701: Created new account: ethan
+2025-06-28 16:34:47.058839: Created new account: ethan@kean.edu
+2025-06-28 16:34:55.577390: ethan@kean.edu logged in
+2025-06-28 16:35:18.146420: Assigned grade A- to miy@kean.edu for CPS 2231
+2025-06-28 16:41:37.190437: miy@kean.edu logged in
+2025-06-28 17:01:43.770686: miy@kean.edu logged in
+2025-06-28 17:04:11.060548: miy@kean.edu logged in
+2025-06-28 17:13:59.299719: miy@kean.edu logged in
+2025-06-28 17:25:09.357997: miy@kean.edu logged in
+2025-06-28 17:29:50.872426: miy@kean.edu logged in
+2025-06-29 01:24:54.316262: miy@kean.edu logged in
+2025-06-29 01:34:13.712590: miy@kean.edu logged in
+2025-06-29 01:34:33.681263: miy@kean.edu enrolled in MGS 3520
+2025-06-29 01:35:17.291560: ethan@kean.edu logged in
+2025-06-29 01:35:47.815256: Assigned grade A to miy@kean.edu for MGS 3520
+2025-06-29 01:36:13.912185: ethan@kean.edu logged in
+2025-06-29 01:36:53.551086: miy@kean.edu logged in
+2025-06-29 01:37:50.322333: ethan@kean.edu logged in
+2025-06-29 01:39:40.810532: ethan@kean.edu logged in
+2025-06-29 01:43:41.755723: miy@kean.edu logged in
+2025-06-29 01:55:35.240108: miy@kean.edu logged in
+2025-06-29 02:00:08.927885: miy@kean.edu logged in
+2025-06-29 02:00:36.823448: miy@kean.edu logged in
+2025-06-29 02:03:02.076617: miy@kean.edu logged in
+2025-06-29 02:06:31.040894: miy@kean.edu logged in
+2025-06-29 02:29:07.231097: miy@kean.edu logged in
+2025-06-29 02:29:18.037743: miy@kean.edu enrolled in CPS 3440
+2025-06-29 02:32:00.379438: miy@kean.edu logged in
+2025-06-29 02:32:04.728192: miy@kean.edu dropped CPS 3440
+2025-06-29 02:32:17.083343: miy@kean.edu dropped CPS 3440
+2025-06-29 17:28:42.893979: miy@kean.edu logged in
+2025-06-29 17:34:54.549037: miy@kean.edu logged in
+2025-06-29 17:37:32.593610: ethan@kean.edu logged in
+2025-06-29 17:51:59.571532: miy@kean.edu logged in
+2025-06-29 18:00:41.990932: miy@kean.edu logged in
+2025-06-29 18:00:49.939382: miy@kean.edu enrolled in CPS 3962
+2025-06-29 18:01:18.171079: ethan@kean.edu logged in
+2025-06-29 18:01:34.161348: Assigned grade A to miy@kean.edu for CPS 3962
+2025-06-30 17:52:26.420254: miy@kean.edu logged in
+2025-07-01 17:26:51.229466: miy@kean.edu logged in
+2025-07-01 17:28:18.106530: ethan@kean.edu logged in
+2025-07-01 17:29:54.550676: miy@kean.edu logged in
+2025-07-01 17:30:29.013052: miy@kean.edu enrolled in CPS 3250
+2025-07-01 17:32:06.407286: ethan@kean.edu logged in
+2025-07-01 17:32:19.614941: Assigned grade A to miy@kean.edu for CPS 3250
+2025-07-01 17:38:52.814799: miy@kean.edu logged in
+2025-07-01 17:39:16.157934: ethan@kean.edu logged in
+2025-07-01 17:42:45.571139: ethan@kean.edu logged in
+2025-07-01 20:13:45.996470: miy@kean.edu logged in
+2025-07-01 20:14:08.314446: miy@kean.edu enrolled in SOC 1000
+2025-07-01 20:14:38.281168: miy@kean.edu dropped SOC 1000
+2025-07-01 20:46:47.320977: ethan@kean.edu logged in
+2025-07-01 20:55:41.584041: miy@kean.edu logged in
+2025-07-01 20:57:39.480239: ethan@kean.edu logged in
+2025-07-02 22:01:17.483187: miy@kean.edu logged in
+2025-07-02 22:06:56.020298: Created new account: yuyid@kean.edu
+2025-07-02 22:07:13.343055: yuyid@kean.edu logged in
+2025-07-02 22:07:39.126218: yuyid@kean.edu enrolled in CPS 1231
+2025-07-02 22:12:16.929673: Created new account: lucian@kean.edu
+2025-07-02 22:12:30.460255: lucian@kean.edu logged in
+2025-07-02 22:12:46.677741: Assigned grade A to yuyid@kean.edu for CPS 1231
+2025-07-03 13:54:14.106315: miy@kean.edu logged in
+2025-07-03 14:14:04.553173: miy@kean.edu logged in
+2025-07-03 17:10:36.855903: Created new account: zhaoyiy@kean.edu
+2025-07-03 17:10:56.119558: zhaoyiy@kean.edu logged in
+2025-07-03 17:12:14.330178: zhaoyiy@kean.edu enrolled in CPS 3320
+2025-07-03 17:18:08.942951: zhaoyiy@kean.edu logged in
+2025-07-03 17:19:06.830522: zhaoyiy@kean.edu enrolled in CPS 4982
+2025-07-03 17:19:28.783192: zhaoyiy@kean.edu dropped CPS 4982
+2025-07-03 17:37:08.769284: miy@kean.edu logged in
+2025-07-03 17:40:31.683746: miy@kean.edu enrolled in CPS 4150
+2025-07-03 17:41:41.058815: miy@kean.edu dropped CPS 4150

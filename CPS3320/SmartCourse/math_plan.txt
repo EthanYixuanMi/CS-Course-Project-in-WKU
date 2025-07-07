@@ -1,0 +1,22 @@
+Year 1:
+MATH2415: Calculus I
+MATH2416: Calculus II
+MATH2526: Applied Statistics I
+MATH2995: Matrix and Linear Algebra I
+Year 2:
+CPS1231: Foundation of CS
+CPS2231: Computer Programming
+MATH2110: Discrete Structure
+MATH3225: Matrix and Linear Algebra II
+MATH3415: Calculus III
+Year 3:
+MATH3700: Big Data Computing
+MATH3710: Foundation of Data Analysis
+MATH3544: Probability and Math Statistics
+MATH3640: Financial Mathematics
+MATH3940: Numerical Analysis
+Year 4:
+MATH3790: Applied Machine Learning
+MATH4710: Data Visualization
+MATH4720: Statistical Data Mining
+MATH4809: Senior Capstone

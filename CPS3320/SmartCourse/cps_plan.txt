@@ -1,0 +1,32 @@
+Year 1:
+CPS1231: Foundation of CS
+CPS2231: Computer Programming
+MATH2110: Discrete Structure
+Year 2:
+CPS2232: Data Structure
+CPS2390: Computer Organization and Architecture
+TECH2920: Computer System
+TECH3525: Introduction to Linux
+MATH2415: Calculus I
+MATH2995: Matrix and Linear Algebra I
+MATH2526: Applied Statistics I
+Year 3:
+CPS3440: Analysis of Algorithms
+CPS3250: Computer Operating Systems
+CPS3962: Object Oriented Analysis and Design
+CPS3320: Python Programming
+CPS4982: Big Data Analysis
+MATH2416: Calculus II
+MATH3544: Probability and Math Statistics
+PHYS2091: Physics I
+PHYS2092: Physics II
+Year 4:
+CPS4150: Computer Architecture
+CPS3410: Applied Algorithm and Data Structure
+CPS3740: Database Management System
+CPS4222: Principle of Networking
+CPS3498: Computer Security
+CPS3500: Web Design
+CPS4951: Senior Capstone
+CPS4981: Introduction to Deep Learning
+MATH3700: Big Data Computing

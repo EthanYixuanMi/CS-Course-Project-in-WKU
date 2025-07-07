@@ -1,0 +1,15 @@
+miy@kean.edu,CPS 1231,A
+miy@kean.edu,CPS 2231,A-
+miy@kean.edu,CPS 2232,A-
+miy@kean.edu,CPS 2390,B
+miy@kean.edu,CPS 3320
+miy@kean.edu,MATH 2400,A
+miy@kean.edu,MATH 2415,A-
+miy@kean.edu,MATH 2995,A
+miy@kean.edu,MATH 2526,A-
+miy@kean.edu,TECH 3525,A
+miy@kean.edu,MGS 3520,A
+miy@kean.edu,CPS 3962,A
+miy@kean.edu,CPS 3250,A
+yuyid@kean.edu,CPS 1231,A
+zhaoyiy@kean.edu,CPS 3320
