@@ -11,8 +11,8 @@ def send_enrollment_email(to_email, message_body):
     # SMTP configuration for QQ email
     smtp_server = "smtp.qq.com"
     smtp_port = 587
-    sender_email = "2509783307@qq.com"
-    sender_password = "hztfrepktsoveaai"
+    sender_email = "your_email_address@qq.com"
+    sender_password = "your_password"
 
     msg = EmailMessage()
     msg['Subject'] = 'SmartCourse Enrollment Notification'
