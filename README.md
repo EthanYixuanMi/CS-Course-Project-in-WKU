@@ -1,4 +1,4 @@
-# Mi Yixuan’s Project Portfolio
+# Yixuan Mi’s Project Portfolio
 
 Welcome to my project portfolio! This repository showcases the various projects I completed during my undergraduate studies at Wenzhou-Kean University. These projects demonstrate my skills in software development, artificial intelligence, data structures, and system design, which I honed throughout my academic journey.
 
@@ -85,7 +85,7 @@ The repository is organized into subdirectories for each project. Each subdirect
 ---
 
 ## Contact Information
-- **Name**: Mi Yixuan  
+- **Name**: Yixuan Mi  
 - **Email**: [yixuanmi25@gmail.com](mailto:yixuanmi25@gmail.com)  
 - **Education**: B.S. in Computer Science, Wenzhou-Kean University  
 
