@@ -25,7 +25,6 @@ easy migration to SQL/REST.
 - **Easy Maintenance**: Modular design ensures sustainable usability and straightforward updates.
 
 **Technologies Used**: Python, Gradio UI Design, Ollama-served LLM, SMTP service, File I/O 
-
 [Learn More](./CPS3320)
 
 ---
