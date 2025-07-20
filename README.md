@@ -24,7 +24,8 @@ easy migration to SQL/REST.
 - **Improved Efficiency**: Reduces advising bottlenecks while providing personalized scheduling. 
 - **Easy Maintenance**: Modular design ensures sustainable usability and straightforward updates.
 
-**Technologies Used**: Python, Gradio UI Design, Ollama-served LLM, SMTP service, File I/O
+**Technologies Used**: Python, Gradio UI Design, Ollama-served LLM, SMTP service, File I/O 
+
 [Learn More](./CPS3320)
 
 ---
