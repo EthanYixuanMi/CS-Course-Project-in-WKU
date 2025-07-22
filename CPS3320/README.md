@@ -1,5 +1,7 @@
 # SmartCourse: Course Selection System with AI Suggestion Module
 
+---
+
 ## Introduction
 
 SmartCourse is a university course management system designed to streamline course selection and academic planning for students and instructors. It allows students to register accounts, search and enroll in courses, view enrolled courses and grades, and drop courses as needed. Instructors can manage course enrollments by viewing student selections and assigning grades. A standout feature is the integrated AI suggestion module, providing personalized course advice based on academic history and major-specific plans.
