@@ -111,7 +111,7 @@ python ui_gradio.py
 
 SmartCourse uses a locally installed large language model (LLM) via **Ollama** to generate personalized course advice.
 
-### 🔧 Step-by-Step Installation
+### 🔧 Step-by-Step Installation (for Windows)
 
 1. **Download and Install Ollama**  
 👉 [Ollama Installation](https://ollama.com/download)
