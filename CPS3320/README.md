@@ -113,7 +113,7 @@ SmartCourse uses a locally installed large language model (LLM) via **Ollama** t
 
 ### 🔧 Step-by-Step Installation
 
-1. **Download and Install Ollama**
+1. **Download and Install Ollama**  
 👉 [Ollama Installation](https://ollama.com/download)
 
 2. **Set Model Storage Path as Environment Variable**
@@ -133,7 +133,7 @@ ollama pull deepseek-r1:1.5b
 Run `Ollama` to ensure it's ready before launching SmartCourse.
 
 ## 🧩 Trouble Installing Ollama?
-Try this GUI-based alternative installer (for Windows):
+Try this GUI-based alternative installer (for Windows):  
 👉 Ollama [Quick Installer for Windows](https://github.com/EthanYixuanMi/Ollama-Windows-Installer)
 
 This tool supports:
