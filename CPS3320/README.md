@@ -143,4 +143,6 @@ This tool supports:
 * Language toggle (English / 中文)
 
 
+
+
 SmartCourse provides a seamless, AI-driven platform for university course management, enhancing academic planning and course selection for students and instructors alike.
