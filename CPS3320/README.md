@@ -1,5 +1,4 @@
 # SmartCourse: Course Selection System with AI Suggestion Module
-
 ---
 
 ## Introduction
