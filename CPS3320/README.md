@@ -6,17 +6,17 @@ SmartCourse is a university course management system designed to streamline cour
 
 ## Key Features
 
-### Account Creation with Email Validation
+### ✅ Account Creation with Email Validation
 
 * Accounts created using official university email (`@kean.edu`).
 * Instructor accounts protected by a security code during registration.
 
-### Secure Login and Authentication
+### 🔐 Secure Login and Authentication
 
 * Password-based authentication verified against stored credentials.
 * Email domain enforced at login.
 
-### Student Functions
+### 🎓 Student Functions
 
 * **Course Search & Enrollment:**
 
@@ -37,7 +37,7 @@ SmartCourse is a university course management system designed to streamline cour
 
   * AI-generated course recommendations based on academic history and major-specific plans.
 
-### Instructor Functions
+### 👨‍🏫 Instructor Functions
 
 * **View Student Enrollments:**
 
@@ -48,12 +48,12 @@ SmartCourse is a university course management system designed to streamline cour
   * Grade submission validated against standard grading scales.
   * Notifications sent to students upon grade assignment.
 
-### Email Notifications for Key Events
+### 📧 Email Notifications for Key Events
 
 * Automated email alerts for enrollments, dropped courses, and new grades.
 * Customizable SMTP email settings.
 
-### Multiple Interfaces – CLI and GUI
+### 🖥️ Multiple Interfaces – CLI and GUI
 
 * **Command-Line Interface (CLI):**
 
@@ -66,7 +66,7 @@ SmartCourse is a university course management system designed to streamline cour
 
 ## Installation and Setup
 
-### Prerequisites
+### 🧰 Prerequisites
 
 * Python 3.8+
 * Required packages:
@@ -75,7 +75,7 @@ SmartCourse is a university course management system designed to streamline cour
 pip install gradio requests
 ```
 
-### Project Files
+### 📁 Project Files
 
 Ensure these files are in your project directory:
 
@@ -86,7 +86,7 @@ Ensure these files are in your project directory:
 
 ## Running the Application
 
-### CLI Mode
+### ▶️ CLI Mode
 
 Run the following command:
 
@@ -96,7 +96,7 @@ python main.py
 
 * Use numeric options to navigate menus after logging in or registering.
 
-### Gradio GUI Mode
+### 🌐 Gradio GUI Mode
 
 Run the following command:
 
@@ -107,11 +107,40 @@ python ui_gradio.py
 * Open the local URL provided (e.g., `http://127.0.0.1:7860/`).
 * Interactive menus for login, registration, and course management.
 
-## AI Suggestion Module Setup
+## 🧠 AI Suggestions Module Setup (Ollama Required)
 
-* Requires Ollama installed with `deepseek-r1:1.5b` model.
-* Ensure Ollama service runs locally (default port: `11434`).
-* SmartCourse sends student data to the model for tailored advice.
-* Error messages displayed if the AI service is unavailable.
+SmartCourse uses a locally installed large language model (LLM) via **Ollama** to generate personalized course advice.
+
+### 🔧 Step-by-Step Installation
+
+1. **Download and Install Ollama**
+👉 [Ollama Installation](https://ollama.com/download)
+
+2. **Set Model Storage Path as Environment Variable**
+Decide where to store models (e.g., `D:\ollama_models`) and run:
+```bash
+setx OLLAMA_MODELS "D:\ollama_models" /M
+```
+
+3. **Pull a Model**
+When Ollama is installed, you need to pull a model form **Terminal**.
+Example (for DeepSeek 1.5B model):
+```bash
+ollama pull deepseek-r1:1.5b
+```
+
+4. **Ensure Ollama Service is Running
+Run `Ollama` to ensure it's ready before launching SmartCourse.
+
+## 🧩 Trouble Installing Ollama?
+Try this GUI-based alternative installer (for Windows):
+👉 Ollama [Quick Installer for Windows](https://github.com/EthanYixuanMi/Ollama-Windows-Installer)
+
+This tool supports:
+* One-click download of official Ollama
+* Environment variable setup
+* Model selection and download via graphical interface
+* Language toggle (English / 中文)
+
 
 SmartCourse provides a seamless, AI-driven platform for university course management, enhancing academic planning and course selection for students and instructors alike.
