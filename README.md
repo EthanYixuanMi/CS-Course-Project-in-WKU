@@ -1,7 +1,7 @@
 # Yixuan Mi’s Project Portfolio
 
 [![Author](https://img.shields.io/badge/Author-Yixuan%20Mi-blue.svg)](https://github.com/EthanYixuanMi)
-[![Education](https://img.shields.io/badge/Education-Wenzhou--Kean%20University-lightgrey.svg)](#)
+[![Education](https://img.shields.io/badge/Education-Wenzhou--Kean%20University-lightgrey.svg)](https://www.wku.edu.cn/en)
 [![Status](https://img.shields.io/badge/Status-Portfolio%20Active-brightgreen.svg)](#)
 [![Contact](https://img.shields.io/badge/Contact-Email-red.svg)](mailto:yixuanmi25@gmail.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
