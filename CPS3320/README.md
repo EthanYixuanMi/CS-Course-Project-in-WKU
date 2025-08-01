@@ -129,7 +129,7 @@ Example (for DeepSeek 1.5B model):
 ollama pull deepseek-r1:1.5b
 ```
 
-4. **Ensure Ollama Service is Running
+4. **Ensure** Ollama Service is Running
 Run `Ollama` to ensure it's ready before launching SmartCourse.
 
 ## 🧩 Trouble Installing Ollama?
