@@ -15,7 +15,30 @@ Welcome to my project portfolio! This repository showcases the various projects 
 
 This repository contains documentation and code for the following projects:
 
-### 1. **SmartCourse: Course Selection System with AI Suggestion Module** (Highlighted)
+### 1. **Improved Genetic Algorithm for Graph Coloring** (Highlighted)
+**Course**: CPS3440 – Analysis of Algorithms  
+
+**Description**:  
+A research-driven project that implements and evaluates six graph coloring algorithms, ranging from classical greedy heuristics to a customized, improved Genetic Algorithm (GA).  
+The project focuses on **algorithmic design choices**, **theoretical behavior**, and **empirical performance evaluation** across diverse graph structures.
+
+**Key Contributions:**
+- Implementation of **6 graph coloring algorithms**: Greedy, LDF, Welsh–Powell, DSatur, Random Greedy, and an **Improved Genetic Algorithm**
+- A **graph-specific GA design**, featuring:
+  - Greedy-based color upper bound to reduce search space  
+  - Lexicographic fitness prioritizing conflict elimination  
+  - Repair operator for invalid individuals  
+  - Guided mutation and elitism for stable convergence
+- **Six comprehensive experiments**, including adversarial Crown graphs and statistical analysis over 30 trials
+- Fully reproducible pipeline with **automatic figure generation and visualization**
+
+**Technologies Used**: Python, NetworkX, Matplotlib, Genetic Algorithms, Experimental Evaluation  
+   
+[Learn More](https://github.com/EthanYixuanMi/Improved-GA-for-Graph-Coloring)   
+
+---   
+
+### 2. **SmartCourse: Course Selection System with AI Suggestion Module** (Highlighted)
 **Course**: CPS3320 - Python Programming    
 
 **Description**: SmartCourse is an intelligent course selection platform that simplifies scheduling by offering personalized recommendations based on students' academic history, major, and four-year plans. 
@@ -36,7 +59,7 @@ easy migration to SQL/REST.
 
 ---
 
-### 2. **Car Rental Management System** (Highlighted)
+### 3. **Car Rental Management System**   
 **Course**: CPS2232 - Data Structures    
 
 **Description**: A robust system designed to streamline car rental services, catering to customers and rental companies. The system offers user-friendly interfaces, efficient data management, and role-based access control.
@@ -53,7 +76,7 @@ easy migration to SQL/REST.
 
 ---
 
-### 3. **Course Selection System**
+### 4. **Course Selection System**
 **Course**: CPS2231 - Computer Programming  
 
 **Description**: A menu-driven system replicating key functionalities of the Kean WISE system. It supports two user roles (students and instructors), enabling course registration and management.
@@ -68,7 +91,7 @@ easy migration to SQL/REST.
 
 ---
 
-### 4. **Programming Fundamentals Project**
+### 5. **Programming Fundamentals Project**
 **Course**: CPS1231 - Foundation of Computer Science
 
 **Description**: A beginner-level project applying fundamental programming techniques to build a menu-driven application with diverse functionalities such as quizzes, lottery simulations, and data visualization.
