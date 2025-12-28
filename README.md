@@ -32,8 +32,7 @@ The project focuses on **algorithmic design choices**, **theoretical behavior**,
 - **Six comprehensive experiments**, including adversarial Crown graphs and statistical analysis over 30 trials
 - Fully reproducible pipeline with **automatic figure generation and visualization**
 
-**Technologies Used**: Python, NetworkX, Matplotlib, Genetic Algorithms, Experimental Evaluation  
-   
+**Technologies Used**: Python, NetworkX, Matplotlib, Genetic Algorithms, Experimental Evaluation     
 [Learn More](https://github.com/EthanYixuanMi/Improved-GA-for-Graph-Coloring)   
 
 ---   
