@@ -16,7 +16,7 @@ Welcome to my project portfolio! This repository showcases the various projects 
 This repository contains documentation and code for the following projects:
 
 ### 1. **Improved Genetic Algorithm for Graph Coloring** (Highlighted)
-**Course**: CPS3440 – Analysis of Algorithms  
+**Course**: CPS3440 - Analysis of Algorithms  
 
 **Description**:  
 A research-driven project that implements and evaluates six graph coloring algorithms, ranging from classical greedy heuristics to a customized, improved Genetic Algorithm (GA).  
