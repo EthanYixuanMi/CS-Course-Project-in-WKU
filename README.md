@@ -58,7 +58,24 @@ easy migration to SQL/REST.
 
 ---
 
-### 3. **Car Rental Management System**   
+### 3. **WKU International Online Admission Management System**
+**Course**: CPS3962 - Object-Oriented Analysis and Design  
+
+**Description**: A PHP/MySQL web-based admission management system designed for international student applications at Wenzhou-Kean University. The system supports three roles: students, admission officers, and administrators, covering the full workflow from online application submission to document verification, admission decision, offer acceptance, and enrollment confirmation.
+
+**Key Features:**
+- Role-based access control for students, admission officers, and admins.
+- Online application submission and document upload.
+- Application review, document verification, and admission decision management.
+- Offer letter viewing, acceptance, and enrollment confirmation.
+- Admin management for users, announcements, payments, email logs, reports, and statistics.
+
+**Technologies Used**: PHP, MySQL, WampServer, HTML, CSS, phpMyAdmin, OOAD  
+[Learn More](https://github.com/EthanYixuanMi/WKU-Admission-System)
+
+---
+
+### 4. **Car Rental Management System**   
 **Course**: CPS2232 - Data Structures    
 
 **Description**: A robust system designed to streamline car rental services, catering to customers and rental companies. The system offers user-friendly interfaces, efficient data management, and role-based access control.
@@ -75,7 +92,7 @@ easy migration to SQL/REST.
 
 ---
 
-### 4. **Course Selection System**
+### 5. **Course Selection System**
 **Course**: CPS2231 - Computer Programming  
 
 **Description**: A menu-driven system replicating key functionalities of the Kean WISE system. It supports two user roles (students and instructors), enabling course registration and management.
@@ -90,7 +107,7 @@ easy migration to SQL/REST.
 
 ---
 
-### 5. **Programming Fundamentals Project**
+### 6. **Programming Fundamentals Project**
 **Course**: CPS1231 - Foundation of Computer Science
 
 **Description**: A beginner-level project applying fundamental programming techniques to build a menu-driven application with diverse functionalities such as quizzes, lottery simulations, and data visualization.
