@@ -1,0 +1,32 @@
+[project]
+name = "hybrid-scheduler"
+version = "0.1.0"
+description = "A privacy-conscious hybrid task-scheduling prototype."
+authors = [
+    {name = "Hybrid Scheduler Contributors"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi (>=0.121.1,<0.122.0)",
+    "uvicorn (>=0.38.0,<0.39.0)",
+    "pydantic (>=2.12.4,<3.0.0)",
+    "prometheus-client (>=0.23.1,<0.24.0)",
+    "boto3 (>=1.40.72,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.1,<10.0.0)",
+    "ruff (>=0.14.4,<0.15.0)",
+    "black (>=25.11.0,<26.0.0)"
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+addopts = "-p no:cacheprovider"
