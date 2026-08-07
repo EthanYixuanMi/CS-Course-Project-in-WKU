@@ -75,7 +75,26 @@ easy migration to SQL/REST.
 
 ---
 
-### 4. **Car Rental Management System**   
+### 4. **Hybrid Scheduler: Privacy-Conscious Task Scheduling System**
+**Course**: CPS3250 - Computer Operating Systems  
+
+**Description**:  
+A FastAPI-based task scheduling prototype that classifies workloads as real-time, short, or batch tasks and dynamically applies suitable scheduling strategies. The project combines classical scheduling algorithms with API services, performance monitoring, experimental evaluation, and privacy-aware design.
+
+**Key Features:**
+- Supports RR, SJF, HRRN, EDF, and Hybrid scheduling strategies.
+- Automatically classifies tasks and selects an appropriate scheduling policy.
+- Provides task submission, health-check, and Prometheus metrics APIs.
+- Includes reproducible workload experiments with CSV result generation.
+- Integrates Docker, Prometheus, and Grafana for local deployment and monitoring.
+- Protects privacy through server-generated task IDs, redacted secrets, and minimized logging.
+
+**Technologies Used**: Python, FastAPI, Pydantic, Prometheus, Grafana, Docker, pytest  
+[Learn More](./CPS3250)
+
+---
+
+### 5. **Car Rental Management System**   
 **Course**: CPS2232 - Data Structures    
 
 **Description**: A robust system designed to streamline car rental services, catering to customers and rental companies. The system offers user-friendly interfaces, efficient data management, and role-based access control.
@@ -92,7 +111,7 @@ easy migration to SQL/REST.
 
 ---
 
-### 5. **Course Selection System**
+### 6. **Course Selection System**
 **Course**: CPS2231 - Computer Programming  
 
 **Description**: A menu-driven system replicating key functionalities of the Kean WISE system. It supports two user roles (students and instructors), enabling course registration and management.
@@ -107,7 +126,7 @@ easy migration to SQL/REST.
 
 ---
 
-### 6. **Programming Fundamentals Project**
+### 7. **Programming Fundamentals Project**
 **Course**: CPS1231 - Foundation of Computer Science
 
 **Description**: A beginner-level project applying fundamental programming techniques to build a menu-driven application with diverse functionalities such as quizzes, lottery simulations, and data visualization.
